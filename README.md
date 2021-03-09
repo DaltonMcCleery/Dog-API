@@ -17,4 +17,11 @@ $ npm run start
 $ npm run generate
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+## Built With
+
+- [Nuxt](https://nuxtjs.org)
+- [Vue](https://github.com/vuejs/vue)
+
+## Author(s)
+
+- [Dalton McCleery](https://github.com/DaltonMcCleery)
